@@ -54,3 +54,4 @@ local.properties
 
 #maven specific
 /target/
+/.tern-project
